@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/first-challenge/static/css/main.1f42f316.css",
+    "main.js": "/github.io/first-challenge/static/js/main.96cedb9c.js",
+    "static/js/787.a170dce2.chunk.js": "/github.io/first-challenge/static/js/787.a170dce2.chunk.js",
+    "index.html": "/github.io/first-challenge/index.html",
+    "main.1f42f316.css.map": "/github.io/first-challenge/static/css/main.1f42f316.css.map",
+    "main.96cedb9c.js.map": "/github.io/first-challenge/static/js/main.96cedb9c.js.map",
+    "787.a170dce2.chunk.js.map": "/github.io/first-challenge/static/js/787.a170dce2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f42f316.css",
+    "static/js/main.96cedb9c.js"
+  ]
+}
